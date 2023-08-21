@@ -13,6 +13,6 @@ const App = () => {
       </Chat>
     </div>
   );
-};
+}; //14:15
 
 export default App;
